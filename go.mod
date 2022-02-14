@@ -1,4 +1,4 @@
-module github.com/Rhymen/go-whatsapp
+module github.com/walidtokyo/go-whatsup
 
 require (
 	github.com/golang/protobuf v1.4.1
